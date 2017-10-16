@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>messenger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#006DFF" offset="11%"></stop>
+            <stop stop-color="#00C6FF" offset="95%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="messenger" fill="url(#linearGradient-1)">
+            <g id="Messenger_Mark">
+                <g>
+                    <g fill-rule="nonzero">
+                        <path d="M40,0.0508259212 C17.9415502,0.0508259212 0.0508259212,16.7756036 0.0508259212,37.407878 C0.0508259212,49.1445997 5.83888183,59.6167726 14.8919949,66.4650572 L14.8919949,80.7623888 L28.52554,73.2005083 C32.261136,74.2427379 36.1217398,74.7690906 40,74.7649301 C62.0584498,74.7649301 79.9491741,58.0401525 79.9491741,37.407878 C79.9491741,16.7756036 62.0635324,0.0508259212 40,0.0508259212 Z M44.2073698,50.1448539 L33.8754765,39.4114358 L13.9771283,50.4193139 L35.7926302,27.2660737 L46.1245235,37.9994917 L66.0228717,26.9956798 L44.2073698,50.1448539 Z" id="Bubble_Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

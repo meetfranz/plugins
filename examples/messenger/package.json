@@ -1,0 +1,13 @@
+{
+  "id": "messenger",
+  "name": "Messenger",
+  "version": "1.0.2",
+  "description": "Facebook Messenger",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://messenger.com",
+    "hasNotificationSound": true
+  }
+}

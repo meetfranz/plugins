@@ -1,0 +1,14 @@
+{
+  "id": "mattermost",
+  "name": "Mattermost",
+  "version": "1.0.0",
+  "description": "Mattermost",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasCustomUrl": true
+  }
+}
