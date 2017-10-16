@@ -1,4 +1,4 @@
-# Franz 5 - Plugins
+# Franz 5 - Plugins/Recipes
 [Franz 5](https://github.com/meetfranz/franz) plugins are now called __recipes__.
 
 ## How to install a recipe
