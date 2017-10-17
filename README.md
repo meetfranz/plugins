@@ -28,8 +28,10 @@ __To add a new service:__
 * [Skype](https://github.com/meetfranz/recipe-skype)
 * [Slack](https://github.com/meetfranz/recipe-slack)
 * [Telegram](https://github.com/meetfranz/recipe-telegram)
+* [Todoist](https://github.com/avatarkava/recipe-todoist)
 * [Tweetdeck](https://github.com/meetfranz/recipe-tweetdeck)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
+
 
 ## :rotating_light: Important notice
 Franz 4 plugins are __not necessarily compatible__ with Franz 5. Please help us to port the [legacy recipes](https://github.com/meetfranz/plugins-legacy) to Franz 5.
