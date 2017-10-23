@@ -13,6 +13,7 @@ __To add a new service:__
 [Read the documentation](/docs)
 
 ## Example Recipes
+* [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
 * [Discord](https://github.com/meetfranz/recipe-discord)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
 * [Gmail](https://github.com/meetfranz/recipe-gmail)
@@ -21,6 +22,7 @@ __To add a new service:__
 * [Hangouts](https://github.com/meetfranz/recipe-hangouts)
 * [HipChat](https://github.com/meetfranz/recipe-hipchat)
 * [Inbox by Gmail](https://github.com/meetfranz/recipe-inbox)
+* [Keep](https://github.com/SiloCityLabs/recipe-franz-googlekeep)
 * [Mattermost](https://github.com/meetfranz/recipe-mattermost)
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
 * [MySMS](https://github.com/meetfranz/recipe-mysms)
