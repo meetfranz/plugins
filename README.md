@@ -33,7 +33,7 @@ __To add a new service:__
 * [Todoist](https://github.com/avatarkava/recipe-todoist)
 * [Tweetdeck](https://github.com/meetfranz/recipe-tweetdeck)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
-
+* [Zulip](https://github.com/adambirds/recipe-zulip)
 
 ## :rotating_light: Important notice
 Franz 4 plugins are __not necessarily compatible__ with Franz 5. Please help us to port the [legacy recipes](https://github.com/meetfranz/plugins-legacy) to Franz 5.
