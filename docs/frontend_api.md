@@ -69,3 +69,38 @@ module.exports = (Franz) => {
   Franz.injectCSS(path.join(__dirname, 'style.css'));
 }
 ```
+
+### onNotiy(fn)
+Runs `fn` on every notification created by the service before sending them to the host (Useful if you want to update information of the notification before showing it to the user)
+
+#### Arguments
+1. `function` fn
+
+#### Usage
+
+```js
+// messenger integration
+module.exports = (Franz) => {
+  const getMessages = function getMessages() {
+    let count = document.querySelectorAll('._5fx8:not(._569x),._1ht3:not(._569x)').length;
+    const messageRequestsElement = document.querySelector('._5nxf');
+    if (messageRequestsElement) {
+      count += parseInt(messageRequestsElement.innerHTML, 10);
+    }
+
+    Franz.setBadge(count);
+  };
+
+  Franz.loop(getMessages);
+
+  Franz.onNotify(notification => {
+
+    if (typeof notification.title !== 'string') {
+      notification.title = ((notification.title.props || {}).content || [])[0] || 'Messenger';
+    }
+
+    return notification;
+
+  });
+};
+```
