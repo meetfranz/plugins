@@ -33,6 +33,7 @@ __To add a new service:__
 * [Telegram](https://github.com/meetfranz/recipe-telegram)
 * [Todoist](https://github.com/avatarkava/recipe-todoist)
 * [Tweetdeck](https://github.com/meetfranz/recipe-tweetdeck)
+* [Twistapp.com](https://github.com/BrianGilbert/franz-recipe-twist)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
 * [Zulip](https://github.com/adambirds/recipe-zulip)
 
