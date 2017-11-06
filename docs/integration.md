@@ -116,7 +116,7 @@ To get more information about the provided functions, check the [API docs](front
 In order to show every service icon crystal clear within the Franz UI, we require a .svg and .png in 1024x1024px.
 
 ### Debugging
-In order to debug your service integration, open Franz and use the shortcut `Cmd/Ctrl+Shift+Ctrl+Alt+Page Up` to open the recipes developer tools.
+In order to debug your service integration, open Franz and use the shortcut `Cmd/Ctrl+Alt+Shift+i` to open the recipes developer tools.
 
 ### Deployment
 As of Franz 5, recipes can be deployed globally via our central repository. In order to get your plugin listed, create an [issue](https://github.com/meetfranz/plugins/issues) with the tag `deploy`, link to your repository and write a short description what your recipe does.
