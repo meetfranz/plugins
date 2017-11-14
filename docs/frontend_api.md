@@ -70,7 +70,7 @@ module.exports = (Franz) => {
 }
 ```
 
-### onNotiy(fn)
+### onNotify(fn)
 Runs `fn` on every notification created by the service before sending them to the host (Useful if you want to update information of the notification before showing it to the user)
 
 #### Arguments
