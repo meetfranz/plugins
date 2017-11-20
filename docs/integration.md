@@ -25,7 +25,6 @@ Every recipe needs a specific file structure in order to be detected as a Franz 
 
 * recipes/dev/`[NAME]`/
   * icon.svg
-  * icon.png
   * index.js
   * package.json
   * webview.js
