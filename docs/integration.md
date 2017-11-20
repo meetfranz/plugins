@@ -17,6 +17,7 @@ A Franz recipe is basically nothing else than a node module and is currently ini
 2. Open the Franz Plugins folder on your machine:
   * Mac: `~/Library/Application Support/Franz/recipes/dev/`
   * Windows: `%appdata%/Franz/recipes/dev/`
+  * Linux: `~/.config/Franz/recipes/dev`
 3. Copy the `whatsapp` folder into the plugins directory
 4. Reload Franz
 
