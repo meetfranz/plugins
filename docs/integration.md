@@ -43,6 +43,7 @@ The package.json is structured like any other node module and allows to complete
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-tweetdeck",
   "config": {
     "serviceURL": "https://tweetdeck.twitter.com/"
   }

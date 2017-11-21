@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-messenger",
   "config": {
     "serviceURL": "https://messenger.com",
     "hasNotificationSound": true

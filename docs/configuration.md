@@ -30,6 +30,9 @@ Author of the integration. Will be displayed in a future release.
 `string` **license**<br />
 The license of the integration. We prefer MIT, but here is a list of all the available SPDX licenses http://spdx.org/licenses/
 
+`string` **repository**<br />
+Link to the Github, Gitlab or Bitbucket public repository
+
 `object` **config**<br />
 This is the Franz specific integration config.
 
@@ -67,7 +70,7 @@ Services like Slack or HipChat have direct messages e.g. a mention or message to
 Info message that will be displayed in the add/edit service interface.
 
 ## Example
-### HipChat configuration
+### Mattermost configuration
 ```json
 {
   "id": "mattermost",
@@ -77,6 +80,7 @@ Info message that will be displayed in the add/edit service interface.
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-mattermost",
   "config": {
     "hasNotificationSound": true,
     "hasIndirectMessages": true,

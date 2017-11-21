@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-mattermost",
   "config": {
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
