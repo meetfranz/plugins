@@ -16,6 +16,7 @@ __To add a new service:__
 * [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
 * [Discord](https://github.com/meetfranz/recipe-discord)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
+* [Gitter.im](https://github.com/BrianGilbert/franz-recipe-gitter)
 * [Gmail](https://github.com/meetfranz/recipe-gmail)
 * [Grape](https://github.com/meetfranz/recipe-grape)
 * [GroupMe](https://github.com/meetfranz/recipe-groupme)
@@ -34,6 +35,7 @@ __To add a new service:__
 * [Todoist](https://github.com/avatarkava/recipe-todoist)
 * [Tweetdeck](https://github.com/meetfranz/recipe-tweetdeck)
 * [Twistapp.com](https://github.com/BrianGilbert/franz-recipe-twist)
+* [WeChat](https://github.com/BrianGilbert/franz-recipe-wechat)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
 * [Zulip](https://github.com/adambirds/recipe-zulip)
 
