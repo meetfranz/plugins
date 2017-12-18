@@ -18,7 +18,7 @@ Display name of the service.
 Version number. Will be used for auto updating the integrations. The version number must be in a semver compatible format: `1.0.0`.
 **important:** the version will be used to figure out if a new recipe update should be deployed to the user.
 
-`string` **desciption**<br />
+`string` **description**<br />
 Short description about your integration. Will be displayed in a future release.
 
 `string` **main**<br />
