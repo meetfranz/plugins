@@ -35,6 +35,7 @@ __To add a new service:__
 * [Todoist](https://github.com/avatarkava/recipe-todoist)
 * [Tweetdeck](https://github.com/meetfranz/recipe-tweetdeck)
 * [Twistapp.com](https://github.com/BrianGilbert/franz-recipe-twist)
+* [Watson Workspace](https://github.com/edm00se/franz-recipe-watson-workspace)
 * [WeChat](https://github.com/BrianGilbert/franz-recipe-wechat)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
 * [Zulip](https://github.com/adambirds/recipe-zulip)
