@@ -39,7 +39,7 @@ This is the Franz specific integration config.
 * `string` **serviceURL**<br/>
 Defines the URL that should be loaded into the Franz webview.
 <br /><br />
-If you want to load a simple URL like `https://www.messenger.com`, you can simply define it via the `serviceURL` parameter. If your service URL is team based, e.g. Slack or HipChat you can use `https://{teamID}.slack.com`.
+If you want to load a simple URL like `https://www.messenger.com`, you can simply define it via the `serviceURL` parameter. If your service URL is team based, e.g. Slack or HipChat you can use `https://{teamId}.slack.com`.
 <br /><br />
 If your service works with custom URLs, just leave this empty.
 <br /><br />
@@ -53,11 +53,11 @@ If your service works with custom URLs, just leave this empty.
 
 ```json
 {
-    "serviceURL": "https://{teamID}.slack.com"
+    "serviceURL": "https://{teamId}.slack.com"
 }
 ```
-* `boolean` **hasTeamID** _default: true_<br />
-Is this a team based service? If true, the interface to add the service will require a team identifier. e.g. `[teamID]`.slack.com
+* `boolean` **hasTeamId** _default: true_<br />
+Is this a team based service? If true, the interface to add the service will require a team identifier. e.g. `[teamId]`.slack.com
 * `boolean` **urlInputSuffix**<br />
 This option is only used in combination with `hasTeamId: true` in order to display the value of `urlInputSuffix` after the input for TeamId to make it obvious to the user what input is required from him. Eg. _&lt;TeamID&gt;.hipchat.com_
 * `boolean` **hasCustomUrl** _default: false_<br />
