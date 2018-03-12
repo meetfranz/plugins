@@ -21,6 +21,7 @@ __To add a new service:__
 * [Grape](https://github.com/meetfranz/recipe-grape)
 * [GroupMe](https://github.com/meetfranz/recipe-groupme)
 * [Hangouts](https://github.com/meetfranz/recipe-hangouts)
+* [Hangouts Chat](https://github.com/meetfranz/recipe-hangoutschat)
 * [HipChat](https://github.com/meetfranz/recipe-hipchat)
 * [Inbox by Gmail](https://github.com/meetfranz/recipe-inbox)
 * [Keep](https://github.com/SiloCityLabs/recipe-franz-googlekeep)
