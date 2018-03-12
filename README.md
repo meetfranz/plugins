@@ -7,13 +7,14 @@ In Franz 5, recipes are now served via a central repository. Except for developm
 __To add a new service:__
 * Go to your Franz 5 App
 * Search & add the required service
-* Et voila, simple as that!   
+* Et voila, simple as that!
 
 ## How to develop, test and deploy recipes
 [Read the documentation](/docs)
 
 ## Example Recipes
 * [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
+* [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
 * [Discord](https://github.com/meetfranz/recipe-discord)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
 * [Gitter.im](https://github.com/BrianGilbert/franz-recipe-gitter)
