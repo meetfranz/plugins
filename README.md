@@ -15,6 +15,7 @@ __To add a new service:__
 ## Example Recipes
 * [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
 * [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
+* [Clockify](https://github.com/briangilbert/franz-recipe-clockify)
 * [Discord](https://github.com/meetfranz/recipe-discord)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
 * [Gitter.im](https://github.com/BrianGilbert/franz-recipe-gitter)
