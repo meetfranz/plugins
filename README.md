@@ -30,6 +30,7 @@ __To add a new service:__
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
 * [MySMS](https://github.com/meetfranz/recipe-mysms)
 * [Rocket.Chat](https://github.com/meetfranz/recipe-rocketchat)
+* [Reddit](https://github.com/alexdevero/franz-reddit-recipe)
 * [Skype](https://github.com/meetfranz/recipe-skype)
 * [Slack](https://github.com/meetfranz/recipe-slack)
 * [Tawk.to](https://github.com/BrianGilbert/franz-recipe-tawk)
