@@ -40,6 +40,7 @@ __To add a new service:__
 * [Watson Workspace](https://github.com/edm00se/franz-recipe-watson-workspace)
 * [WeChat](https://github.com/BrianGilbert/franz-recipe-wechat)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
+* [Wunderlist](https://github.com/tano297/recipe-franz-wunderlist)
 * [Zulip](https://github.com/adambirds/recipe-zulip)
 
 ## :rotating_light: Important notice
