@@ -27,6 +27,7 @@ __To add a new service:__
 * [Inbox by Gmail](https://github.com/meetfranz/recipe-inbox)
 * [Keep](https://github.com/SiloCityLabs/recipe-franz-googlekeep)
 * [Mattermost](https://github.com/meetfranz/recipe-mattermost)
+* [Messages](https://github.com/ttal/recipe-franz-googlemessages)
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
 * [MySMS](https://github.com/meetfranz/recipe-mysms)
 * [Rocket.Chat](https://github.com/meetfranz/recipe-rocketchat)
