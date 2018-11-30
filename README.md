@@ -31,6 +31,7 @@ __To add a new service:__
 * [Mattermost](https://github.com/meetfranz/recipe-mattermost)
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
 * [MySMS](https://github.com/meetfranz/recipe-mysms)
+* [Proton Mail](https://github.com/lukas-reineke/franz-recipe-proton-mail)
 * [Rocket.Chat](https://github.com/meetfranz/recipe-rocketchat)
 * [Skype](https://github.com/meetfranz/recipe-skype)
 * [Slack](https://github.com/meetfranz/recipe-slack)
