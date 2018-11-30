@@ -15,6 +15,7 @@ __To add a new service:__
 ## Example Recipes
 * [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
 * [Android Messages](https://github.com/dweinber/franz-recipe-android-messages)
+* [BaseMessage](https://github.com/tranduykhanh/base-message-vn-recipe)
 * [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
 * [Discord](https://github.com/meetfranz/recipe-discord)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
