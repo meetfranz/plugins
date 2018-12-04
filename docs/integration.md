@@ -9,6 +9,7 @@ A Franz recipe is basically nothing else than a node module and is currently ini
 * [Backend (index.js)](#user-content-indexjs)
 * [Frontend (webview.js)](#user-content-webviewjs)
 * [Icons](#user-content-icons)
+* [Dark Mode](#user-content-darkmode)
 * [Debugging](#user-content-debugging)
 * [Deployment](#user-content-deployment)
 
@@ -30,6 +31,7 @@ Every recipe needs a specific file structure in order to be detected as a Franz 
   * index.js
   * package.json
   * webview.js
+  * darkmode.css
 
 ### package.json
 The package.json is structured like any other node module and allows to completely configure the service.
@@ -116,6 +118,11 @@ To get more information about the provided functions, check the [API docs](front
 
 ### Icons
 In order to show every service icon crystal clear within the Franz UI, we require a .svg and .png in 1024x1024px.
+
+### Dark Mode
+You can provide a custom Dark Mode Theme for your recipes just by putting the `darkmode.css` into your recipe folder. Once the `darkmode.css` exists, you can enable the Dark Mode in your service settings.
+
+Recipe Dark Mode is only supported by Franz 5.0.0-beta.19+
 
 ### Debugging
 In order to debug your service integration, open Franz and use the shortcut `Cmd/Ctrl+Alt+Shift+i` to open the recipes developer tools.
