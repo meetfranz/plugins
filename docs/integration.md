@@ -9,7 +9,7 @@ A Franz recipe is basically nothing else than a node module and is currently ini
 * [Backend (index.js)](#user-content-indexjs)
 * [Frontend (webview.js)](#user-content-webviewjs)
 * [Icons](#user-content-icons)
-* [Dark Mode](#user-content-darkmode)
+* [Dark Mode](#user-content-dark-mode)
 * [Debugging](#user-content-debugging)
 * [Deployment](#user-content-deployment)
 
