@@ -17,6 +17,7 @@ __To add a new service:__
 * [Android Messages](https://github.com/dweinber/franz-recipe-android-messages)
 * [BaseMessage](https://github.com/tranduykhanh/base-message-vn-recipe)
 * [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
+* [Clockify](https://github.com/briangilbert/franz-recipe-clockify)
 * [Discord](https://github.com/meetfranz/recipe-discord)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
 * [Gitter.im](https://github.com/BrianGilbert/franz-recipe-gitter)
