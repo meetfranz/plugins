@@ -44,6 +44,7 @@ __To add a new service:__
 * [WeChat](https://github.com/BrianGilbert/franz-recipe-wechat)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
 * [Zulip](https://github.com/adambirds/recipe-zulip)
+* [Zalo](https://github.com/tranduykhanh/zalo-franz-recipe)
 
 ## :rotating_light: Important notice
 Franz 4 plugins are __not necessarily compatible__ with Franz 5. Please help us to port the [legacy recipes](https://github.com/meetfranz/plugins-legacy) to Franz 5.
