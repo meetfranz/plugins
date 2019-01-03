@@ -1,0 +1,8 @@
+'use strict';
+
+module.exports = Franz => class MicrosoftTeams extends Franz {
+  overrideUserAgent() {
+    return window.navigator.userAgent.replace(/(Franz|Electron)([^\s]+\s)/g, '').replace(/(Chrome\/)([^ ]*)/g, '$163.0.3239.84');
+  }
+};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1zdGVhbXMvaW5kZXguanMiXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyIsIkZyYW56IiwiTWljcm9zb2Z0VGVhbXMiLCJvdmVycmlkZVVzZXJBZ2VudCIsIndpbmRvdyIsIm5hdmlnYXRvciIsInVzZXJBZ2VudCIsInJlcGxhY2UiXSwibWFwcGluZ3MiOiI7O0FBQUFBLE9BQU9DLE9BQVAsR0FBaUJDLFNBQVMsTUFBTUMsY0FBTixTQUE2QkQsS0FBN0IsQ0FBbUM7QUFDM0RFLHNCQUFvQjtBQUNsQixXQUFPQyxPQUFPQyxTQUFQLENBQWlCQyxTQUFqQixDQUEyQkMsT0FBM0IsQ0FBbUMsNkJBQW5DLEVBQWtFLEVBQWxFLEVBQXNFQSxPQUF0RSxDQUE4RSxvQkFBOUUsRUFBb0csZ0JBQXBHLENBQVA7QUFDRDtBQUgwRCxDQUE3RCIsImZpbGUiOiJtc3RlYW1zL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSBGcmFueiA9PiBjbGFzcyBNaWNyb3NvZnRUZWFtcyBleHRlbmRzIEZyYW56IHtcbiAgb3ZlcnJpZGVVc2VyQWdlbnQoKSB7XG4gICAgcmV0dXJuIHdpbmRvdy5uYXZpZ2F0b3IudXNlckFnZW50LnJlcGxhY2UoLyhGcmFuenxFbGVjdHJvbikoW15cXHNdK1xccykvZywgJycpLnJlcGxhY2UoLyhDaHJvbWVcXC8pKFteIF0qKS9nLCAnJDE2My4wLjMyMzkuODQnKTtcbiAgfVxufTtcbiJdfQ==
