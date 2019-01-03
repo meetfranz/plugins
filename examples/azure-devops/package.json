@@ -1,0 +1,15 @@
+{
+  "id": "azure-devops",
+  "name": "Azure Devops",
+  "version": "1.0.0",
+  "description": "Azure Devops",
+  "main": "index.js",
+  "author": "Angelo Belchior <angelobelchior@hotmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://dev.azure.com/{teamId}",
+    "hasNotificationSound": false,
+    "hasTeamId": true,
+    "urlInputSuffix": "https://dev.azure.com/"    
+  }
+}
