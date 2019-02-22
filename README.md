@@ -27,6 +27,7 @@ __To add a new service:__
 * [Hangouts Chat](https://github.com/meetfranz/recipe-hangoutschat)
 * [HipChat](https://github.com/meetfranz/recipe-hipchat)
 * [Inbox by Gmail](https://github.com/meetfranz/recipe-inbox)
+* [Indie Hackers](https://github.com/alexdevero/franz-indiehackers-recipe)
 * [Keep](https://github.com/SiloCityLabs/recipe-franz-googlekeep)
 * [Mattermost](https://github.com/meetfranz/recipe-mattermost)
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
