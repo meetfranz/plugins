@@ -15,6 +15,7 @@ __To add a new service:__
 ## Example Recipes
 * [Allo](https://github.com/SiloCityLabs/recipe-franz-googleallo)
 * [Android Messages](https://github.com/dweinber/franz-recipe-android-messages)
+* [AWS](https://github.com/bartanthonissen/franz-aws-recipe)
 * [BaseMessage](https://github.com/tranduykhanh/base-message-vn-recipe)
 * [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
 * [Discord](https://github.com/meetfranz/recipe-discord)
@@ -47,3 +48,4 @@ __To add a new service:__
 
 ## :rotating_light: Important notice
 Franz 4 plugins are __not necessarily compatible__ with Franz 5. Please help us to port the [legacy recipes](https://github.com/meetfranz/plugins-legacy) to Franz 5.
+
