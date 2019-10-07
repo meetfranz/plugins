@@ -18,6 +18,7 @@ __To add a new service:__
 * [BaseMessage](https://github.com/tranduykhanh/base-message-vn-recipe)
 * [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
 * [Discord](https://github.com/meetfranz/recipe-discord)
+* [Disroot](https://github.com/Gabrock94/recipe-disroot)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
 * [Gitter.im](https://github.com/BrianGilbert/franz-recipe-gitter)
 * [Gmail](https://github.com/meetfranz/recipe-gmail)
@@ -44,7 +45,6 @@ __To add a new service:__
 * [WeChat](https://github.com/BrianGilbert/franz-recipe-wechat)
 * [WhatsApp](https://github.com/meetfranz/recipe-whatsapp)
 * [Zulip](https://github.com/adambirds/recipe-zulip)
-* [Disroot](https://github.com/Gabrock94/recipe-disroot)
 
 ## :rotating_light: Important notice
 Franz 4 plugins are __not necessarily compatible__ with Franz 5. Please help us to port the [legacy recipes](https://github.com/meetfranz/plugins-legacy) to Franz 5.
