@@ -18,6 +18,7 @@ __To add a new service:__
 * [BaseMessage](https://github.com/tranduykhanh/base-message-vn-recipe)
 * [Bitbucket](https://github.com/17number/franz-recipe-bitbucket)
 * [Discord](https://github.com/meetfranz/recipe-discord)
+* [Disroot](https://github.com/Gabrock94/recipe-disroot)
 * [Flowdock](https://github.com/meetfranz/recipe-flowdock)
 * [Gitter.im](https://github.com/BrianGilbert/franz-recipe-gitter)
 * [Gmail](https://github.com/meetfranz/recipe-gmail)
