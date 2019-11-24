@@ -35,6 +35,7 @@ __To add a new service:__
 * [Rocket.Chat](https://github.com/meetfranz/recipe-rocketchat)
 * [Skype](https://github.com/meetfranz/recipe-skype)
 * [Slack](https://github.com/meetfranz/recipe-slack)
+* [StackEdit](https://github.com/hylkealons/franz-recipe-stackedit)
 * [Tawk.to](https://github.com/BrianGilbert/franz-recipe-tawk)
 * [Telegram](https://github.com/meetfranz/recipe-telegram)
 * [Todoist](https://github.com/avatarkava/recipe-todoist)
