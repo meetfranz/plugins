@@ -30,6 +30,7 @@ __To add a new service:__
 * [Keep](https://github.com/SiloCityLabs/recipe-franz-googlekeep)
 * [Mattermost](https://github.com/meetfranz/recipe-mattermost)
 * [Messenger](https://github.com/meetfranz/recipe-messenger)
+* [Monica](https://github.com/jkbecker/recipe-monica)
 * [MySMS](https://github.com/meetfranz/recipe-mysms)
 * [Proton Mail](https://github.com/lukas-reineke/franz-recipe-proton-mail)
 * [Rocket.Chat](https://github.com/meetfranz/recipe-rocketchat)
